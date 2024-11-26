@@ -13,7 +13,7 @@ Kotlin, Room, Retrofit2, viewBinding, Kotlin Coroutines, Glide, Koin, MVVM, Sing
 Декомпозиция и планирование велось на канбан-доске: https://github.com/users/herrfreeman/projects/1/views/1
 
 ### Над проектом работали:
-- Васильев Кирилл (Я) https://github.com/herrfreeman
+- Васильев Кирилл https://github.com/herrfreeman
 - Подлесных Иван https://github.com/IvanPodlesnykh
 - Бухолов Дмитрий https://github.com/bukholovdmitry
 - Табаев Егор https://github.com/lodrean
